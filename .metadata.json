@@ -1,5 +1,6 @@
 [
   {
-    "package": "SparseChol"
+    "package": "SparseChol",
+    "oncran": true
   }
 ]
