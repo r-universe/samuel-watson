@@ -1,5 +1,9 @@
 [
   {
+    "package": "glmmrBase",
+    "oncran": true
+  },
+  {
     "package": "SparseChol",
     "oncran": true
   }
