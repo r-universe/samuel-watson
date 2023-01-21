@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "glmmrOptim",
+    "oncran": true
+  },
+  {
     "package": "SparseChol",
     "oncran": true
   }

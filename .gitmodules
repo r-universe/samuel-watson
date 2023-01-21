@@ -8,6 +8,11 @@
 	url = https://github.com/samuel-watson/glmmrbase
 	shallow = true
 	registered = true
+[submodule "glmmrOptim"]
+	path = glmmrOptim
+	url = https://github.com/samuel-watson/glmmroptim
+	shallow = true
+	registered = true
 [submodule "SparseChol"]
 	path = SparseChol
 	url = https://github.com/samuel-watson/sparsechol
