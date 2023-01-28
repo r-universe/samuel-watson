@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "glmmrMCML",
+    "oncran": true
+  },
+  {
     "package": "glmmrOptim",
     "oncran": true
   },
