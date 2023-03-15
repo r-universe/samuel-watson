@@ -1,17 +1,17 @@
 [
   {
-    "package": "glmmrOptim",
-    "oncran": true
-  },
-  {
-    "package": "SparseChol",
+    "package": "glmmrBase",
     "oncran": true
   },
   {
     "package": "glmmrMCML"
   },
   {
-    "package": "glmmrBase",
+    "package": "glmmrOptim",
+    "oncran": true
+  },
+  {
+    "package": "SparseChol",
     "oncran": true
   }
 ]

@@ -3,6 +3,16 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "glmmrBase"]
+	path = glmmrBase
+	url = https://github.com/samuel-watson/glmmrbase
+	shallow = true
+	registered = true
+[submodule "glmmrMCML"]
+	path = glmmrMCML
+	url = https://github.com/samuel-watson/glmmrmcml
+	shallow = true
+	registered = true
 [submodule "glmmrOptim"]
 	path = glmmrOptim
 	url = https://github.com/samuel-watson/glmmroptim
@@ -11,15 +21,5 @@
 [submodule "SparseChol"]
 	path = SparseChol
 	url = https://github.com/samuel-watson/sparsechol
-	shallow = true
-	registered = true
-[submodule "glmmrMCML"]
-	path = glmmrMCML
-	url = https://github.com/samuel-watson/glmmrmcml
-	shallow = true
-	registered = true
-[submodule "glmmrBase"]
-	path = glmmrBase
-	url = https://github.com/samuel-watson/glmmrbase
 	shallow = true
 	registered = true
