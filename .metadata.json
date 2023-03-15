@@ -1,9 +1,5 @@
 [
   {
-    "package": "glmmrBase",
-    "oncran": true
-  },
-  {
     "package": "glmmrOptim",
     "oncran": true
   },
@@ -13,5 +9,9 @@
   },
   {
     "package": "glmmrMCML"
+  },
+  {
+    "package": "glmmrBase",
+    "oncran": true
   }
 ]
