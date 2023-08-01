@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "SparseChol"]
+	path = SparseChol
+	url = https://github.com/samuel-watson/sparsechol
 [submodule "glmmrBase"]
 	path = glmmrBase
 	url = https://github.com/samuel-watson/glmmrbase
 [submodule "glmmrOptim"]
 	path = glmmrOptim
 	url = https://github.com/samuel-watson/glmmroptim
-[submodule "SparseChol"]
-	path = SparseChol
-	url = https://github.com/samuel-watson/sparsechol
