@@ -8,3 +8,6 @@
 [submodule "glmmrBase"]
 	path = glmmrBase
 	url = https://github.com/samuel-watson/glmmrbase
+[submodule "glmmrOptim"]
+	path = glmmrOptim
+	url = https://github.com/samuel-watson/glmmroptim
