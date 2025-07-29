@@ -11,3 +11,6 @@
 [submodule "glmmrOptim"]
 	path = glmmrOptim
 	url = https://github.com/samuel-watson/glmmroptim
+[submodule "marginme"]
+	path = marginme
+	url = https://github.com/samuel-watson/marginme
